@@ -5,7 +5,7 @@
 
 #include <stdio.h>
 #include <Winsock2.h>
-#include <windows.h>
+#include <Windows.h>
 #include <ws2tcpip.h>
 #include <tlhelp32.h>
 
