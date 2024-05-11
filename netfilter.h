@@ -4,7 +4,7 @@
 #define _C_API
 
 #include <stdio.h>
-#include <winsock2.h>
+#include <Winsock2.h>
 #include <windows.h>
 #include <ws2tcpip.h>
 #include <tlhelp32.h>
